@@ -1,0 +1,88 @@
+{
+  "type" : "alpacatest",
+  "baseType" : "base",
+
+  "identity" : {
+    "name" : "Sarah",
+    "gender" : "female"
+  },
+
+  "persistent" : true,
+  "damageTeamType" : "friendly",
+
+  "dropPools" : [ "basicTreasure" ],
+
+  "scripts" : [
+    "/npcs/bmain.lua"
+  ],
+  "initialScriptDelta" : 5,
+  "scriptConfig" : {
+    "behavior" : "merchant",
+
+    "behaviorConfig" : {
+      "noticePlayersRadius" : 20,
+
+      "hostileDamageTeam" : { "type" : "enemy", "team" : 1 }
+    },
+
+    "reactions" : {
+      "spontaneous" : [
+        [5.0, "sleep", { "timeRange" : [0.7, 0.9] }],
+        [1.0, "sit", { "timeRange" : [0.6,0.2]}],
+        [1.0, "wander", { "timeRange" : [0.2, 0.6] }]
+      ]
+    },
+
+    "merchant" : {
+      "waitTime" : 40,
+      "storeRadius" : 16,
+      "poolsFile" : "/npcs/scrappool.config",
+      "categories" : {
+        "default" : ["scrappool"]
+      },
+      "buyFactorRange" : [ 8,8 ],
+      "sellFactorRange" : [ 0.3, 0.5 ],
+      "numItems" : 10
+    },
+    "dialog" : {
+      "merchant" : {
+        "start" : "/dialog/alpacatest.config:start",
+        "end" : "/dialog/alpacatest.config:end",
+        "follow" : "/dialog/alpacatest.config:follow",
+        "welcome" : "/dialog/alpacatest.config:welcome",
+        "tout" : "/dialog/alpacatest.config:tout"
+      }
+    },
+    "flee" : {
+        "helpme" : "/dialog/flee.config:helpme",
+        "safe" : "/dialog/flee.config:safe"
+      },
+      "tenant" : {
+        "grumbles" : {
+          "tagCriteria" : "/dialog/merchant.config:tagCriteria",
+          "enclosedArea" : "/dialog/merchant.config:enclosedArea",
+          "otherDeed" : "/dialog/merchant.config:otherDeed",
+          "severe" : "/dialog/merchant.config:severe",
+          "final" : "/dialog/merchant.config:final"
+        },
+        "arrivedHome" : {
+          "beacon" : "/dialog/merchant.config:beacon",
+          "rent" : "/dialog/merchant.config:rent"
+        }
+      },
+      "accuse" : "/dialog/thief.config:accuse",
+      "alert" : "/dialog/thief.config:alert"
+    },
+
+  "items" : {
+    "avian" : [
+      [0, [
+          {
+            "chest" : [ { "name" : "novatier3chest" } ],
+            "legs" : [ { "name" : "aviantier3pants" } ],
+            "back" : [ { "name" : "hikerback" } ]
+          }
+        ] ]
+    ]
+  }
+}

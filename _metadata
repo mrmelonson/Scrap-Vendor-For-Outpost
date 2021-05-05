@@ -1,0 +1,9 @@
+{
+  "version" : "3.1",
+  "author" : "Wolf",
+  "description" : "Adds a NPC that wanders around and will sell you salvaged parts.",
+  "name" : "Scrap Vendor",
+  "friendlyName" : "Scrap Vendor",
+  "steamContentId" : "1036460760",
+  "link" : "steam://url/CommunityFilePage/1036460760"
+}

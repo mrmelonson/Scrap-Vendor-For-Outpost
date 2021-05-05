@@ -1,0 +1,591 @@
+[
+  {
+    "op": "add",
+    "path": "/layers/3/objects/-",
+    "value": {
+                
+                 "gid":5504,
+                 "height": 8,
+                 "id":898,
+                 "name":"",
+                 "properties":
+                    {
+                     "npc":"avian",
+                     "seed":"666",
+                     "typeName":"alpacatest"
+                    },
+                 "propertytypes" :
+                    {
+                     "npc":"string",
+                     "seed":"string",
+                     "typeName":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":8,
+                 "x":2616,
+                 "y":992
+            }
+    },
+    {
+    "op": "add",
+    "path": "/layers/3/objects/-",
+    "value": {
+                "gid":470,
+                 "height":8,
+                 "id":1704,
+                 "name":"",
+                 "properties":
+                    {
+                     "material" : "outpostsupport"
+                    },
+                 "propertytypes" :
+                    {
+                     "material" : "string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":8,
+                 "x":2648,
+                 "y":1008
+            }
+    },
+    {
+    "op": "add",
+    "path": "/layers/3/objects/-",
+    "value": {
+                "gid":47,
+                 "height":8,
+                 "id":1705,
+                 "name":"",
+                 "properties":
+                    {
+                     "material" : "outpostplatform"
+                    },
+                 "propertytypes" :
+                    {
+                     "material" : "string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":8,
+                 "x":2640,
+                 "y":1008
+            }
+    },
+    {
+    "op": "add",
+    "path": "/layers/3/objects/-",
+    "value": {
+                "gid":47,
+                 "height":8,
+                 "id":1706,
+                 "name":"",
+                 "properties":
+                    {
+                     "material" : "outpostplatform"
+                    },
+                 "propertytypes" :
+                    {
+                     "material" : "string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":8,
+                 "x":2632,
+                 "y":1008
+            }
+    },
+    {
+    "op": "add",
+    "path": "/layers/3/objects/-",
+    "value": {
+                "gid":47,
+                 "height":8,
+                 "id":1707,
+                 "name":"",
+                 "properties":
+                    {
+                     "material" : "outpostplatform"
+                    },
+                 "propertytypes" :
+                    {
+                     "material" : "string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":8,
+                 "x":2624,
+                 "y":1008
+            }
+    },
+    {
+    "op": "add",
+    "path": "/layers/3/objects/-",
+    "value": {
+                "gid":47,
+                 "height":8,
+                 "id":1708,
+                 "name":"",
+                 "properties":
+                    {
+                     "material" : "outpostplatform"
+                    },
+                 "propertytypes" :
+                    {
+                     "material" : "string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":8,
+                 "x":2616,
+                 "y":1008
+            }
+    },
+    {
+    "op": "add",
+    "path": "/layers/3/objects/-",
+    "value": {
+                "gid":47,
+                 "height":8,
+                 "id":1709,
+                 "name":"",
+                 "properties":
+                    {
+                     "material" : "outpostplatform"
+                    },
+                 "propertytypes" :
+                    {
+                     "material" : "string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":8,
+                 "x":2608,
+                 "y":1008
+            }
+    },
+    {
+    "op": "add",
+    "path": "/layers/3/objects/-",
+    "value": {
+                "gid":47,
+                 "height":8,
+                 "id":1710,
+                 "name":"",
+                 "properties":
+                    {
+                     "material" : "outpostplatform"
+                    },
+                 "propertytypes" :
+                    {
+                     "material" : "string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":8,
+                 "x":2600,
+                 "y":1008
+            }
+    },
+    {
+    "op": "add",
+    "path": "/layers/3/objects/-",
+    "value": {
+                "gid":47,
+                 "height":8,
+                 "id":1711,
+                 "name":"",
+                 "properties":
+                    {
+                     "material" : "outpostplatform"
+                    },
+                 "propertytypes" :
+                    {
+                     "material" : "string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":8,
+                 "x":2592,
+                 "y":1008
+            }
+    },
+    {
+    "op": "add",
+    "path": "/layers/3/objects/-",
+    "value": {
+                "gid":47,
+                 "height":8,
+                 "id":1712,
+                 "name":"",
+                 "properties":
+                    { 
+                     "material" : "outpostplatform"
+                    },
+                 "propertytypes" :
+                    {
+                     "material" : "string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":8,
+                 "x":2584,
+                 "y":1008
+            }
+    },
+    {
+    "op": "add",
+    "path": "/layers/3/objects/-",
+    "value": {
+                "gid":47,
+                 "height":8,
+                 "id":1713,
+                 "name":"",
+                 "properties":
+                    {
+                     "material" : "outpostplatform"
+                    },
+                 "propertytypes" :
+                    {
+                     "material" : "string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":8,
+                 "x":2576,
+                 "y":1008
+            }
+    },
+    {
+    "op": "add",
+    "path": "/layers/3/objects/-",
+    "value": {
+                "gid":47,
+                 "height":8,
+                 "id":1714,
+                 "name":"",
+                 "properties":
+                    {
+                     "material" : "outpostplatform"
+                    },
+                 "propertytypes" :
+                    {
+                     "material" : "string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":8,
+                 "x":2568,
+                 "y":1008
+            }
+    },
+    {
+    "op": "add",
+    "path": "/layers/3/objects/-",
+    "value": {
+                "gid":47,
+                 "height":8,
+                 "id":1715,
+                 "name":"",
+                 "properties":
+                    {
+                     "material" : "outpostplatform"
+                    },
+                 "propertytypes" :
+                    {
+                     "material" : "string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":8,
+                 "x":2560,
+                 "y":1008
+            }
+    },
+    {
+    "op": "add",
+    "path": "/layers/3/objects/-",
+    "value": {
+                "gid":47,
+                 "height":8,
+                 "id":1716,
+                 "name":"",
+                 "properties":
+                    {
+                     "material" : "outpostplatform"
+                    },
+                 "propertytypes" :
+                    {
+                     "material" : "string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":8,
+                 "x":2552,
+                 "y":1008
+            }
+    },
+    {
+    "op": "add",
+    "path": "/layers/3/objects/-",
+    "value": {
+                "gid":47,
+                 "height":8,
+                 "id":1717,
+                 "name":"",
+                 "properties":
+                    {
+                     "material" : "outpostplatform"
+                    },
+                 "propertytypes" :
+                    {
+                     "material" : "string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":8,
+                 "x":2544,
+                 "y":1008
+            }
+    },
+    {
+    "op": "add",
+    "path": "/layers/3/objects/-",
+    "value": {
+                "gid":47,
+                 "height":8,
+                 "id":1718,
+                 "name":"",
+                 "properties":
+                    {
+                     "material" : "outpostplatform"
+                    },
+                 "propertytypes" :
+                    {
+                     "material" : "string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":8,
+                 "x":2536,
+                 "y":1008
+            }
+    },
+    {
+    "op": "add",
+    "path": "/layers/3/objects/-",
+    "value": {
+                "gid":47,
+                 "height":8,
+                 "id":1719,
+                 "name":"",
+                 "properties":
+                    {
+                     "material" : "outpostsupport"
+                    },
+                 "propertytypes" :
+                    {
+                     "material" : "string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":8,
+                 "x":2528,
+                 "y":1008
+            }
+    },
+    {
+    "op": "add",
+    "path": "/layers/3/objects/-",
+    "value": {
+                "gid":2147486501,
+                 "height":24,
+                 "id":1720,
+                 "name":"",
+                 "properties":
+                    {
+                    "\/\/description" : "A storage crate, typically used for stashing equipment and ores.",
+                    "\/\/name" : "lunarbasecrate",
+                    "\/\/shortdescription" : "Lunar Base Crate",
+                    "imagePositionX" : "-16",
+                    "imagePositionY" : "0",
+                    "object" : "lunarbasecrate",
+                    "tilesetDirection" : "left"
+                    },
+                 "propertytypes" :
+                    {
+                    "\/\/description" : "string",
+                    "\/\/name" : "string",
+                    "\/\/shortdescription" : "string",
+                    "imagePositionX":"string",
+                    "imagePositionY":"string",
+                    "object":"string",
+                    "tilesetDirection":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":40,
+                 "x":2528,
+                 "y":1000
+            }
+    },
+    {
+    "op": "add",
+    "path": "/layers/3/objects/-",
+    "value": {
+                "gid":2147486501,
+                 "height":24,
+                 "id":1721,
+                 "name":"",
+                 "properties":
+                    {
+                     "object" : "outpostcargocrate",
+                     "tilesetDirection" : "left"
+                    },
+                 "propertytypes" :
+                    {
+                     "object" : "string",
+                     "tilesetDirection" : "string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":32,
+                 "x":2568,
+                 "y":1000
+            }
+    },
+    {
+    "op": "add",
+    "path": "/layers/3/objects/-",
+    "value": {
+                "gid":2147486501,
+                 "height":16,
+                 "id":1722,
+                 "name":"",
+                 "properties":
+                    {
+                     "object" : "outpostcargocrateshort",
+                     "tilesetDirection" : "left"
+                    },
+                 "propertytypes" :
+                    {
+                     "object" : "string",
+                     "tilesetDirection" : "string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":40,
+                 "x":2544,
+                 "y":976
+            }
+    },
+    {
+    "op": "add",
+    "path": "/layers/3/objects/-",
+    "value": {
+                "gid":2147486501,
+                 "height":32,
+                 "id":1723,
+                 "name":"",
+                 "properties":
+                    {
+                     "object" : "industrialchair",
+                     "tilesetDirection" : "left"
+                    },
+                 "propertytypes" :
+                    {
+                     "object" : "string",
+                     "tilesetDirection" : "string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":2600,
+                 "y":1000
+            }
+    },
+    {
+    "op": "add",
+    "path": "/layers/3/objects/-",
+    "value": {
+                "gid":2147486501,
+                 "height":16,
+                 "id":1724,
+                 "name":"",
+                 "properties":
+                    {
+                     "object" : "astrotable",
+                     "tilesetDirection" : "left"
+                    },
+                 "propertytypes" :
+                    {
+                     "object" : "string",
+                     "tilesetDirection" : "string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":32,
+                 "x":2624,
+                 "y":1000
+            }
+    },
+    {
+    "op": "add",
+    "path": "/layers/3/objects/-",
+    "value": {
+                "gid":470,
+                 "height":8,
+                 "id":1704,
+                 "name":"",
+                 "properties":
+                    {
+                     "\/\/description":"A golden duck!",
+                    "\/\/name":"goldenducky",
+                    "\/\/shortdescription":"Golden Ducky",
+                    "imagePositionX":"0",
+                    "imagePositionY":"0",
+                    "object":"goldenducky",
+                    "tilesetDirection":"right"
+                    },
+                 "propertytypes" :
+                    {
+                     "\/\/description":"string",
+                    "\/\/name":"string",
+                    "\/\/shortdescription":"string",
+                    "imagePositionX":"string",
+                    "imagePositionY":"string",
+                    "object":"string",
+                    "tilesetDirection":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":8,
+                 "x":2640,
+                 "y":984
+            }
+    }
+]
